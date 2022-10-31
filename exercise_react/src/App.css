@@ -1,0 +1,46 @@
+body {
+  background-color: lavender;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: darkblue;
+  margin: 25px 50px 75px 100px;
+  padding: 25px 50px 75px 100px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: blue;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+tr th {
+  border: 2px solid wheat;
+  color: brown;
+  padding: 4px;
+}
+
+tr td {
+  border: 2px solid wheat;
+  color: brown;
+  padding: 4px;
+}
+
+input {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
